@@ -1,4 +1,4 @@
 # Misiones
 
-*Investigando a Dumbledor
-*Capturar a Voldemhort
+* Investigando a Dumbledor
+* Capturar a Voldemhort
